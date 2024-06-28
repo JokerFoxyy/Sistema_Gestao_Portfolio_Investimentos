@@ -103,7 +103,7 @@ DELETE /api/investments/{clientId}/{investmentId}
 
 - Faça uma requisição GET para /api/products para obter a lista de produtos financeiros disponíveis.
 
-##Comprar um Investimento
+## Comprar um Investimento
 
 - Faça uma requisição POST para /api/investments/{clientId} onde clientId é o ID do cliente que está comprando o investimento, com o corpo da requisição contendo os detalhes do investimento.
 
