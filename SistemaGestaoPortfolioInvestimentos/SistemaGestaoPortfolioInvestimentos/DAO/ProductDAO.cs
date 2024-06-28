@@ -1,13 +1,15 @@
-﻿using SistemaGestaoPortfolioInvestimentos.Interfaces;
+﻿using SistemaGestaoPortfolioInvestimentos.Data;
+using SistemaGestaoPortfolioInvestimentos.Interfaces;
 using SistemaGestaoPortfolioInvestimentos.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace SistemaGestaoPortfolioInvestimentos.DAO
 {
     public class ProductDAO:IProductDAO
     {
-        private readonly DatabaseContext _context;
+        private readonly DataBaseContext _context;
 
-        public ProductDAO(DatabaseContext context)
+        public ProductDAO(DataBaseContext context)
         {
             _context = context;
         }
