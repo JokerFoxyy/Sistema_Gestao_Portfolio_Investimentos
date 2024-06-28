@@ -15,13 +15,13 @@
    cd PortfolioManagement
 
 
-2. **Restaure as dependências do projeto usando o comando:
+2. **Restaure as dependências do projeto usando o comando:**
 dotnet restore
 
-3. **Compilar o Projeto
+3. **Compilar o Projeto**
 dotnet build
 
-4. **Executar a Aplicação
+4. **Executar a Aplicação**
 dotnet run
 
 5-A API estará disponível em https://localhost:5001 ou http://localhost:5000. Para acessar a documentação Swagger, navegue até https://localhost:5001/swagger ou http://localhost:5000/swagger.
@@ -30,13 +30,13 @@ dotnet run
 
   ### Endpoints de Produtos Financeiros
 
-1. **Consultar Todos os Produtos
+1. **Consultar Todos os Produtos**
 GET /api/products
 
-2. **Consultar Produto por ID
+2. **Consultar Produto por ID**
 GET /api/products/{id}
 
-3. **Adicionar Produto
+3. **Adicionar Produto**
 POST /api/products
 
 exemplo de corpo da requisição
@@ -49,7 +49,7 @@ exemplo de corpo da requisição
 }
 ```
 
-4. **Atualizar Produto
+4. **Atualizar Produto**
 PUT /api/products/{id}
 corpo da requisição
 
@@ -61,7 +61,7 @@ corpo da requisição
     "price": 120.00
 }
 ```
-5. **Deletar Produto
+5. **Deletar Produto**
 DELETE /api/products/{id}
 
 
