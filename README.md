@@ -24,7 +24,7 @@ dotnet build
 4. **Executar a Aplicação**
 dotnet run
 
-5-A API estará disponível em https://localhost:5001 ou http://localhost:5000. Para acessar a documentação Swagger, navegue até https://localhost:5001/swagger ou http://localhost:5000/swagger.
+5. **A API estará disponível em https://localhost:5001 ou http://localhost:5000. Para acessar a documentação Swagger, navegue até https://localhost:5001/swagger ou http://localhost:5000/swagger.**
 
 ## Como Utilizar
 
@@ -67,13 +67,13 @@ DELETE /api/products/{id}
 
 	## Endpoints de Investimentos
 
-1. **Consultar Todos os Investimentos de um Cliente
+1. **Consultar Todos os Investimentos de um Cliente**
 GET /api/investments/{clientId}
 
-2. **Consultar Investimento por ID
+2. **Consultar Investimento por ID**
 GET /api/investments/{clientId}/{investmentId}
 
-3. **Comprar Investimento
+3. **Comprar Investimento**
 POST /api/investments/{clientId}
 
 corpo da requisição:
@@ -84,7 +84,7 @@ corpo da requisição:
 }
 ```
 
-4. **Vender Investimento
+4. **Vender Investimento**
 DELETE /api/investments/{clientId}/{investmentId}
 
 
@@ -92,7 +92,7 @@ DELETE /api/investments/{clientId}/{investmentId}
 
 ## Adicionar um Produto Financeiro
 
-### Faça uma requisição POST para /api/products com o corpo da requisição contendo os detalhes do produto.
+** Faça uma requisição POST para /api/products com o corpo da requisição contendo os detalhes do produto.**
 
 ## Consultar Produtos Financeiros
 
