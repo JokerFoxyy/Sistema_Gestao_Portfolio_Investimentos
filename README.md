@@ -115,6 +115,6 @@ DELETE /api/investments/{clientId}/{investmentId}
 
 - Faça uma requisição DELETE para /api/investments/{clientId}/{investmentId} onde clientId é o ID do cliente e investmentId é o ID do investimento a ser vendido.
 
-#Para utilizar o serviço de email ele deve ser configurado corretamente.
+# Para utilizar o serviço de email ele deve ser configurado corretamente.
 
 
