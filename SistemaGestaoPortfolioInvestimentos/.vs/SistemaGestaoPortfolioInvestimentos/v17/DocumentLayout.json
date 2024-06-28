@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\Sistema_Gestao_Portfolio_Investimentos\\SistemaGestaoPortfolioInvestimentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4131B559-EF07-4DBA-B6A0-3646B552D21B}|SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos.csproj|d:\\projetos\\sistema_gestao_portfolio_investimentos\\sistemagestaoportfolioinvestimentos\\sistemagestaoportfolioinvestimentos\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131B559-EF07-4DBA-B6A0-3646B552D21B}|SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos.csproj|solutionrelative:sistemagestaoportfolioinvestimentos\\dao\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131B559-EF07-4DBA-B6A0-3646B552D21B}|SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos.csproj|d:\\projetos\\sistema_gestao_portfolio_investimentos\\sistemagestaoportfolioinvestimentos\\sistemagestaoportfolioinvestimentos\\interfaces\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131B559-EF07-4DBA-B6A0-3646B552D21B}|SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos.csproj|solutionrelative:sistemagestaoportfolioinvestimentos\\interfaces\\iproductdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4131B559-EF07-4DBA-B6A0-3646B552D21B}|SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos.csproj|d:\\projetos\\sistema_gestao_portfolio_investimentos\\sistemagestaoportfolioinvestimentos\\sistemagestaoportfolioinvestimentos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4131B559-EF07-4DBA-B6A0-3646B552D21B}|SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos.csproj|solutionrelative:sistemagestaoportfolioinvestimentos\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema_Gestao_Portfolio_Investimentos\\SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos\\DAO\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "SistemaGestaoPortfolioInvestimentos\\DAO\\ProductDAO.cs",
+              "ToolTip": "D:\\Projetos\\Sistema_Gestao_Portfolio_Investimentos\\SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos\\DAO\\ProductDAO.cs",
+              "RelativeToolTip": "SistemaGestaoPortfolioInvestimentos\\DAO\\ProductDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T00:04:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductDAO.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema_Gestao_Portfolio_Investimentos\\SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos\\Interfaces\\IProductDAO.cs",
+              "RelativeDocumentMoniker": "SistemaGestaoPortfolioInvestimentos\\Interfaces\\IProductDAO.cs",
+              "ToolTip": "D:\\Projetos\\Sistema_Gestao_Portfolio_Investimentos\\SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos\\Interfaces\\IProductDAO.cs",
+              "RelativeToolTip": "SistemaGestaoPortfolioInvestimentos\\Interfaces\\IProductDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:51:39.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema_Gestao_Portfolio_Investimentos\\SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SistemaGestaoPortfolioInvestimentos\\Models\\Product.cs",
+              "ToolTip": "D:\\Projetos\\Sistema_Gestao_Portfolio_Investimentos\\SistemaGestaoPortfolioInvestimentos\\SistemaGestaoPortfolioInvestimentos\\Models\\Product.cs",
+              "RelativeToolTip": "SistemaGestaoPortfolioInvestimentos\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:44:18.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
