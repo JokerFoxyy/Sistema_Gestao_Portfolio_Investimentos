@@ -38,7 +38,9 @@ GET /api/products/{id}
 
 3-Adicionar Produto
 POST /api/products
+
 exemplo de corpo da requisição
+```bash
 {
     "name": "Produto 1",
     "maturityDate": "2024-12-31T00:00:00Z",
