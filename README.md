@@ -92,23 +92,23 @@ DELETE /api/investments/{clientId}/{investmentId}
 
 ## Adicionar um Produto Financeiro
 
-** Faça uma requisição POST para /api/products com o corpo da requisição contendo os detalhes do produto.**
+- Faça uma requisição POST para /api/products com o corpo da requisição contendo os detalhes do produto.**
 
 ## Consultar Produtos Financeiros
 
-### Faça uma requisição GET para /api/products para obter a lista de produtos financeiros disponíveis.
+- Faça uma requisição GET para /api/products para obter a lista de produtos financeiros disponíveis.
 
 ##Comprar um Investimento
 
-### Faça uma requisição POST para /api/investments/{clientId} onde clientId é o ID do cliente que está comprando o investimento, com o corpo da requisição contendo os detalhes do investimento.
+- Faça uma requisição POST para /api/investments/{clientId} onde clientId é o ID do cliente que está comprando o investimento, com o corpo da requisição contendo os detalhes do investimento.
 
 ## Consultar Investimentos de um Cliente
 
-### Faça uma requisição GET para /api/investments/{clientId} onde clientId é o ID do cliente para obter a lista de todos os investimentos do cliente.
+- Faça uma requisição GET para /api/investments/{clientId} onde clientId é o ID do cliente para obter a lista de todos os investimentos do cliente.
 
 ## Vender um Investimento
 
-### Faça uma requisição DELETE para /api/investments/{clientId}/{investmentId} onde clientId é o ID do cliente e investmentId é o ID do investimento a ser vendido.
+- Faça uma requisição DELETE para /api/investments/{clientId}/{investmentId} onde clientId é o ID do cliente e investmentId é o ID do investimento a ser vendido.
 
 #Para utilizar o serviço de email ele deve ser configurado corretamente.
 
