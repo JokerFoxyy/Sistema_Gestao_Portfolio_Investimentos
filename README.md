@@ -26,9 +26,9 @@ dotnet run
 
 5-A API estará disponível em https://localhost:5001 ou http://localhost:5000. Para acessar a documentação Swagger, navegue até https://localhost:5001/swagger ou http://localhost:5000/swagger.
 
-				Como Utilizar
+##Como Utilizar
 
-	Endpoints de Produtos Financeiros
+  ###Endpoints de Produtos Financeiros
 
 1-Consultar Todos os Produtos
 GET /api/products
@@ -40,12 +40,14 @@ GET /api/products/{id}
 POST /api/products
 
 exemplo de corpo da requisição
+
 ```bash
 {
     "name": "Produto 1",
     "maturityDate": "2024-12-31T00:00:00Z",
     "price": 100.00
 }
+```
 
 4-Atualizar Produto
 PUT /api/products/{id}
