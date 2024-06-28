@@ -16,15 +16,20 @@
 
 
 2. **Restaure as dependências do projeto usando o comando:**
+ ```bash
 dotnet restore
-
-3. **Compilar o Projeto**
+ ```
+4. **Compilar o Projeto**
+ ```bash
 dotnet build
+ ```
 
-4. **Executar a Aplicação**
+6. **Executar a Aplicação**
+ ```bash
 dotnet run
+ ```
 
-5. **A API estará disponível em https://localhost:5001 ou http://localhost:5000. Para acessar a documentação Swagger, navegue até https://localhost:5001/swagger ou http://localhost:5000/swagger.**
+7. **A API estará disponível em https://localhost:5001 ou http://localhost:5000. Para acessar a documentação Swagger, navegue até https://localhost:5001/swagger ou http://localhost:5000/swagger.**
 
 ## Como Utilizar
 
